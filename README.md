@@ -4,7 +4,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h1 align="center">Qui suis-je ?</h1>
 
@@ -12,15 +12,15 @@
   <em>Développeur full-stack de 27 ans, passionné de code et d'aventures, basé en France.</em>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 1.2em;">
   🐶 1 chien &nbsp;&nbsp;&nbsp; 🐱🐱 2 chats
 </p>
 
 <p align="center">
-  Créateur de contenu toujours actif, je fais surtout des <strong>streams</strong> tout en développant des expériences uniques en codant, principalement pour le web et en Python.
+  Créateur de contenu toujours actif et streamer régulier, je développe des expériences uniques en codant, principalement pour le web et en Python.
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h2 align="center">Langages & Technologies</h2>
 <p align="center">
@@ -29,7 +29,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h2 align="center">Logiciels & Outils</h2>
 
@@ -47,7 +47,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h2 align="center">Mes Statistiques GitHub</h2>
 <p align="center">
@@ -55,17 +55,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketaklak&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" style="max-width: 400px;"/>
 </p>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h2 align="center">Contributions</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ketaklak/Ketaklak/output/github-contribution-grid-snake.svg" />
 </div>
 
----
+<hr style="border: 0; height: 2px; background: #5865F2;">
+
+<h2 align="center">Mes Streams</h2>
+<p align="center" style="font-size: 1.2em;">
+  🎥 Retrouvez mes streams en direct sur <a href="#" target="_blank"><strong>Twitch</strong></a> et d'autres plateformes !
+</p>
+
+<hr style="border: 0; height: 2px; background: #5865F2;">
 
 <h2 align="center">Merci d'être passé !</h2>
 <p align="center">
-  Si tu as lu jusqu'au bout, voici un petit <a href="https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o" target="_blank"><strong>cadeau</strong></a> pour illuminer ta journée.  
+  Si tu as lu jusqu'au bout, voici un petit <a href="https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o" target="_blank"><strong>cadeau</strong></a> pour illuminer ta journée.<br>
   Reste passionné et continue de créer du lourd ! :blue_heart: :shipit:
 </p>
