@@ -73,6 +73,6 @@
 
 <h2 align="center">Thanks for stopping by!</h2>
 <p align="center">
-  If you've read this far, here's a little <a href="https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o" target="_blank"><strong>gift</strong></a> to brighten your day.<br>
+  If you've read this far, here's a little <a href="https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o](https://www.youtube.com/watch?v=xgGAwTP38NI" target="_blank"><strong>gift</strong></a> to brighten your day.<br>
   Stay passionate and keep creating awesome stuff! :blue_heart: :shipit:
 </p>
