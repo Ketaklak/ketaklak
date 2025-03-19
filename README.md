@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Ancien créateur de contenu, je développe des expériences uniques en codant, notamment sur Discord avec <strong>discord.js</strong> et <strong>JavaScript</strong>.
+  Créateur de contenu toujours actif, je fais surtout des <strong>streams</strong> tout en développant des expériences uniques en codant, principalement pour le web et en Python.
 </p>
 
 ---
