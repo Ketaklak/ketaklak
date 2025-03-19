@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Créateur de contenu toujours actif et streamer régulier, je développe des expériences uniques en codant, principalement pour le web et en Python.
+  CEO d'AnomalyaCorp - Entreprise de maintenance informatique & Développement web | <a href="https://anomalya.fr" target="_blank"><strong>Site web d'Anomalya</strong></a>
 </p>
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
@@ -66,7 +66,7 @@
 
 <h2 align="center">Mes Streams</h2>
 <p align="center" style="font-size: 1.2em;">
-  🎥 Retrouvez mes streams en direct sur <a href="#" target="_blank"><strong>Twitch</strong></a> et d'autres plateformes !
+  🎥 Retrouvez mes streams en direct sur <a href="https://twitch.tv/keta_klak" target="_blank"><strong>Twitch</strong></a> et d'autres plateformes !
 </p>
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
