@@ -9,7 +9,7 @@
 <h1 align="center">Qui suis-je ?</h1>
 
 <p align="center">
-  <em>Développeur full-stack de 27 ans, passionné de code et d'aventures, basé en France.</em>
+  <em>Développeuse full-stack de 28 ans, passionné de code et d'aventures, basé en France.</em>
 </p>
 
 <p align="center" style="font-size: 1.2em;">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  CEO d'AnomalyaCorp - Entreprise de maintenance informatique & Développement web | <a href="https://anomalya.fr" target="_blank"><strong>Site web d'Anomalya</strong></a>
+ | CEO d'AnomalyaCorp - Entreprise de maintenance informatique & Développement web | 
 </p>
 
 <hr style="border: 0; height: 2px; background: #5865F2;">
