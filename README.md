@@ -14,7 +14,7 @@
 
 **Langages & Technologies qui me passionnent**
 
-[![Mes Compétences](https://skillicons.dev/icons?i=laravel,php,html,css,js,discordjs,java,typed,nodejs,ts,lua,py,tailwind,react,bots,git,mongodb,workers,windows,arduino,electron,kotlin,md)](https://skillicons.dev)
+[![Mes Compétences](https://skillicons.dev/icons?i=laravel,php,html,css,js,discordjs,java,nodejs,ts,lua,py,tailwind,react,bots,git,mongodb,workers,windows,arduino,electron,kotlin,md)](https://skillicons.dev)
 
 # Logiciels Utilisés
 
